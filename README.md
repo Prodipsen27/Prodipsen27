@@ -26,8 +26,8 @@
 <br clear="both">
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodipsen27&show_icons=true&locale=en&layout=compact&width=270&animation=true&theme=dracula&hide_border=false&order=2" alt="prodipsen27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodipsen27&show_icons=true&locale=en&layout=compact&width=270&animation=true&theme=nord&hide_border=false&order=2" alt="prodipsen27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prodipsen27&show_icons=true&locale=en&width=270&animation=true&theme=dracula&hide_border=false&order=2" alt="prodipsen27" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prodipsen27&show_icons=true&locale=en&width=270&animation=true&theme=nord&hide_border=false&order=2" alt="prodipsen27" /></p>
 </div>
 
