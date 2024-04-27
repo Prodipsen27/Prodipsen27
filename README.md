@@ -1,6 +1,6 @@
 
 <img align="right" height="270" src="https://cdn.wallpapersafari.com/46/63/x6k5sw.gif"  />
-<br>
+<br><br>
 <h1 align="center">Hi 👋, I'm Prodip</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
